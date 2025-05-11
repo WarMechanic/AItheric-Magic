@@ -37,11 +37,7 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 
 - Download or copy files of your choosing from this repository.
 
-1. Use the 'Import World Info' feature when you click the lorebook header.
-
-    OR
-
-2. Manually insert the file into a worlds folder: `SillyTavern/data/%some username%/worlds/` or `SillyTavern/public/worlds/`
+- Manually insert the file into a worlds folder: `SillyTavern/data/%some username%/worlds/` or `SillyTavern/public/worlds/`
 
 ---
 
