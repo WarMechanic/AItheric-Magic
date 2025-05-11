@@ -39,6 +39,8 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 
 - Manually insert the file into a worlds folder: `SillyTavern/data/%some username%/worlds/` or `SillyTavern/public/worlds/`
 
+When you import it, all the entries will appear out of order. You can change it to sort by order to fix this.
+
 ---
 
 # Contribution
