@@ -1,4 +1,4 @@
-# AItheric Magic
+# Aetheric Imagery Magic system
 ### A lightweight SillyTavern lorebook magic system to weave worlds together in a compelling manner.
 
 Designed with fantasy settings in mind except the actual core system doesn't contain any content. You could theoretically apply this lorebook to any ruleset. 
