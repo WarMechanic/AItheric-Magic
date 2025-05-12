@@ -33,6 +33,16 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 
 ---
 
+## Todo:
+
+- [X] Core ruleset functional
+- - [ ] Improve entry keying over time with feedback
+
+- [ ] Extension content: spell attributes
+
+- [ ] Extension content: material aether characteristics
+---
+
 # Installation
 
 - Download or copy files of your choosing from this repository.
