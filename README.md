@@ -6,7 +6,7 @@ Designed with fantasy settings in mind except the actual core system doesn't con
 Has some core concepts that encourage visceral storytelling, but might not be appealing for every (or many a) universe:
 
 - **Magic is everywhere, and everything is magical.**
-  > Uniting everything to be magical allows a consistent scale and detailed spectacle, with less AI jargon.
+  > Universal system that gives plausibility to human spellcasters, viscious monsters, and wonderful items. Allows for a consistent scale and detailed spectacle with less AI jargon.
 
 - **Visceral imagery over damage numbers.**
   > Mana as a concept has been entirely rebuked, and replaced with metabolic spellcasting. Damage numbers dropped in favour of brutal fight choreography - this system encourages fast paced combat scenes about wrestling for control. 
