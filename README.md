@@ -1,6 +1,8 @@
 # Aetheric Imagery Magic system
 ### A lightweight SillyTavern lorebook magic system to weave worlds together in a compelling manner.
 
+\*NOTE: I've gotten some feedback from someone who seems to be quite talented at writing lorebooks. I'm going to be rewriting a token unoptimised version of the system and try improving it from scratch.
+
 Designed with fantasy settings in mind except the actual core system doesn't contain any content. You could theoretically apply this lorebook to any ruleset. 
 
 Has some core concepts that encourage visceral storytelling, but might not be appealing for every (or many a) universe:
