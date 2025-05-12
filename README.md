@@ -9,10 +9,10 @@ Has some core concepts that encourage visceral storytelling, but might not be ap
   > Uniting everything to be magical allows a consistent scale and detailed spectacle, with less AI jargon.
 
 - **Visceral imagery over damage numbers.**
-  > Mana as a concept has been entirely rebuked, and replaced with metabolic spellcasting. Damage numbers dropped in favour of brutal fight choreography. 
+  > Mana as a concept has been entirely rebuked, and replaced with metabolic spellcasting. Damage numbers dropped in favour of brutal fight choreography - this system encourages fast paced combat scenes about wrestling for control. 
 
 - **Never forget to emphasise human frailty.**
-  > For as long as humans age, people will seek to improve their own lives and defy expectations. 
+  > For as long as humans age, people will seek to improve their own lives and defy expectations. Not explicitly dystopian, but the overcoming nature inspires people to cheat death and exploit the land with unique design.
 
 - **Trying for small token counts.**
   > The lorebook is currently written in the catnip format which is readily and reliably understood by Deepseek. Cuts down a lot of natural language and inheritance minimises overlapping information. Minimum token count of 148, but you should expect ~350 tokens for random activity and ~600 tokens for combat. Subject to change in the future.
