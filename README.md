@@ -47,4 +47,4 @@ When you import it, all the entries will appear out of order. You can change it 
 
 Feedback is much appreciated, feel free to raise issues on the Github or dm me on Discord (@warmechanic)
 
-I'm happy for people to fork and pull request additional content for this system.
+I'm happy for people to fork and pull request additional content for this system, particularly looking for lorebooks in different formats to work with different models or characters.
