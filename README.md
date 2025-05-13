@@ -1,8 +1,6 @@
 # Aetheric Imagery Magic system
 ### A lightweight SillyTavern lorebook magic system to weave worlds together in a compelling manner.
 
-\*NOTE: I've gotten some feedback from someone who seems to be quite talented at writing lorebooks. I'm going to be rewriting a token unoptimised version of the system and try improving it from scratch.
-
 Designed with fantasy settings in mind except the actual core system doesn't contain any content. You could theoretically apply this lorebook to any ruleset. 
 
 Has some core concepts that encourage visceral storytelling, but might not be appealing for every (or many a) universe:
@@ -16,8 +14,8 @@ Has some core concepts that encourage visceral storytelling, but might not be ap
 - **Never forget to emphasise human frailty.**
   > For as long as humans age, people will seek to improve their own lives and defy expectations. Not explicitly dystopian, but the overcoming nature inspires people to cheat death and exploit the land with unique design.
 
-- **Trying for small token counts.**
-  > The lorebook is currently written in the catnip format which is readily and reliably understood by Deepseek. Cuts down a lot of natural language and inheritance minimises overlapping information. Minimum token count of 148, but you should expect ~350 tokens for random activity and ~600 tokens for combat. Subject to change in the future.
+- **Iteratively optimizing tokens across multiple formats.**
+  > I	use Deepseek to test the lorebook, but one lorebook mightn't fit every SillyTavern instance. Refer to versions for a description of each.
 
 ---
 
@@ -43,6 +41,16 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 - [ ] Extension content: spell attributes
 
 - [ ] Extension content: material aether characteristics
+---
+
+# Formats
+
+- Catnip
+	> The first format which I wrote in. Something like xml tags used as entity components, wrapped in tables to prevent format leaking.
+
+- Basilisk
+	> Work-in-progress, being designed with Discord teaching to supercede Catnip. Programmatic like pseudo-python, lower token count and easier to read.
+
 ---
 
 # Installation
