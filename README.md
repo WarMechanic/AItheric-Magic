@@ -51,7 +51,7 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 	> The first format which I wrote in. Something like xml tags used as entity components, wrapped in tables to prevent format leaking.
 
 - Basilisk
-	> Work-in-progress, being designed with Discord teaching to supercede Catnip. Programmatic like pseudo-python, lower token count and easier to read.
+	> Work-in-progress, being designed with Discord teaching to supercede Catnip. Programmatic like pseudo-python, higher token baseline with no inheritance so far, high quality of response with less nudging.
 
 ---
 
