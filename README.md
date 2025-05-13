@@ -40,6 +40,8 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 
 - [ ] Extension content: spell attributes
 
+- [ ] Extension content: alchemy formulae
+
 - [ ] Extension content: material aether characteristics
 ---
 
