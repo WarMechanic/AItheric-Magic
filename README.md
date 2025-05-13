@@ -15,7 +15,7 @@ Has some core concepts that encourage visceral storytelling, but might not be ap
   > For as long as humans age, people will seek to improve their own lives and defy expectations. Not explicitly dystopian, but the overcoming nature inspires people to cheat death and exploit the land with unique design.
 
 - **Iteratively optimizing tokens across multiple formats.**
-  > I	use Deepseek to test the lorebook, but one lorebook mightn't fit every SillyTavern instance. Refer to versions for a description of each.
+  > I use Deepseek to test the lorebook, but one lorebook mightn't fit every SillyTavern instance. Refer to formats for a description of each.
 
 ---
 
