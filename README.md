@@ -45,7 +45,7 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 
 # Formats
 
-- Catnip
+- [Catnip](https://github.com/thaalesalves/ai-games-research/wiki/CAT-nip--SFW-guide-by-Covalent-and-Curious-Nekomimi)
 	> The first format which I wrote in. Something like xml tags used as entity components, wrapped in tables to prevent format leaking.
 
 - Basilisk
