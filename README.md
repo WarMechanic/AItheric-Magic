@@ -9,7 +9,7 @@ Has some core concepts that encourage visceral storytelling, but might not be ap
   > Universal system that gives plausibility to human spellcasters, viscious monsters, and wonderful items. Allows for a consistent scale and detailed spectacle with less AI jargon.
 
 - **No teleportation.**
-  > Currently a Basilisk feature: Instantly traversal is impossible, but you can get close by using intradimensional shortcuts. And theres also what lurks beyond, if you're interested in that.
+  > Currently a Basilisk feature: Instant traversal is impossible, but you can get close by using intradimensional shortcuts. And theres also what lurks beyond, if you're interested in that.
 
 - **Visceral imagery over damage numbers.**
   > Mana as a concept has been entirely rebuked, and replaced with metabolic spellcasting. Damage numbers dropped in favour of brutal fight choreography - this system encourages fast paced combat scenes about wrestling for control. 
