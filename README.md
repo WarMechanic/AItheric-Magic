@@ -54,7 +54,12 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 	> The first format which I wrote in. Something like xml tags used as entity components, wrapped in tables to prevent format leaking.
 
 - Basilisk
-	> Work-in-progress, being designed with Discord teaching to supercede Catnip. Programmatic like pseudo-python, higher token baseline with no inheritance so far, high quality of response with less nudging.
+	> Work-in-progress, being designed with Discord teaching to supercede Catnip. Programmatic like pseudo-python, high quality of response with less implication nudging.
+ 	> Now dictionary compression, as well as citations that tell you which rules have been invoked. You can tell if a definition has been compressed via `summary/...` vs `dictionary/...`
+ 	> ![image](https://github.com/user-attachments/assets/a244e2dc-8453-43cd-8458-29b5869fe5ca)
+ 	> ![image](https://github.com/user-attachments/assets/12f3417b-ac0b-4bbe-8aea-8b63d364e803)
+
+
 
 ---
 
