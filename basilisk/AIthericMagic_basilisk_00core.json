@@ -209,7 +209,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tdesign is key",
-            "content": "design= rich universe priority, problems influence culture. multiple thinking paragraphs.",
+            "content": "\\design= rich universe priority, problems influence culture. multiple thinking paragraphs.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -459,7 +459,7 @@
             ],
             "keysecondary": [],
             "comment": "\tenchantment",
-            "content": "∀enchantment= boon, enchant, burden.\nenchantment= spell sticker∈ magic:\n\tload= siphons material αether sustain.\n\tlingering= awaits cure∥ dispel∥ starve long temporary.\n\tdumb= simple material alteration.\n\tspecific= incompatible target results variable alteration.\n\tunsteady= designs consider enchantment dispelling.\n\tstacking= enchants compete.\n\titem= consider toggle glyph.",
+            "content": "∀enchantment= boon, enchant, burden.\nenchantment= spell sticker∈ magic:\n\tload= siphons material αether sustain.\n\tlingering= awaits cure∥ dispel∥ starve long temporary.\n\tdumb= simple material alteration.\n\tspecific= incompatible target results variable alteration.\n\tunsteady= \\designs \\consider enchantment dispelling.\n\tstacking= enchants compete.\n\titem= \\consider toggle glyph.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -561,7 +561,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary cosmology",
-            "content": "\\cosmology= w axis, dimensional \\tunnel travel.",
+            "content": "\\cosmology= \\w axis, dimensional \\tunnel travel.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -633,7 +633,7 @@
                 "/(?<!\\\\)\\b[Tt]ranslocat(ion)?e?s?\\b(?![≡∩∪∈])/",
                 "/(?<!\\\\)\\b[Rr]ift(ing)?s?\\b(?![≡∩∪∈])/",
                 "/(?<!\\\\)\\b[Pp]ortal(ing)?s?\\b(?![≡∩∪∈])/",
-                "/(?<!\\\\)\\b[Tt]unnel(ing)?s?\\b(?![≡∩∪∈])/"
+                "/(?<!\\\\)\\b[Ww][\\s-][Tt]unnel(ing)?s?\\b(?![≡∩∪∈])/"
             ],
             "keysecondary": [],
             "comment": "\t\ttunneling",
@@ -741,7 +741,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tαether as magic energy",
-            "content": "magic≡ thaumatology ∈physics.\nthaumatology= governed by special physics, design subject:\n\tαether= potential magic energy, ubiquitous resource.\n\tmedium= no radiation through vacuums.\n\tdynamics= conduction between material boundaries until equilibrium, material dependent capacity.\n\trepel= nuclear forces equidistance αether within materials.\n\tbinary= particle spin encodes spell attribute.\n\tspell= magic reaction that effects mediums differently, density multiplies.\n\tinvisible= dont mention verbatim describe imagery and sensation, affects mood\n\n\tdef spell (αether, medium) -> effect:\n\t\tattribute= particle binary, determines effect.\n\t\tflux= αether convection force.\n\t\treturn attribute.React(medium).",
+            "content": "magic≡ thaumatology ∈physics.\nthaumatology= governed by special physics, \\design subject:\n\tαether= potential magic energy, ubiquitous resource.\n\tmedium= no radiation through vacuums.\n\tdynamics= conduction between material boundaries until equilibrium, material dependent capacity.\n\trepel= nuclear forces equidistance αether within materials.\n\tbinary= particle spin encodes spell attribute.\n\tspell= magic reaction that effects mediums differently, density multiplies.\n\tinvisible= dont mention verbatim describe imagery and sensation, affects mood\n\n\tdef spell (αether, medium) -> effect:\n\t\tattribute= particle binary, determines effect.\n\t\tflux= αether convection force.\n\t\treturn attribute.React(medium).",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -820,7 +820,7 @@
             ],
             "keysecondary": [],
             "comment": "\tepigraphy",
-            "content": "epigraphy≡ inscription∈ (engineering∩ alchemy∩ metamagic):\n\tglyph= permanent symbolic carvings\n\tcircuit= slightly affects forced αether, designed around specific input.\n\tpartitioning= surface determines canvas, complexity fills canvas.\n\tsmart= gnosis glyph triggers.\n\tfixture= requires meticulous design.\n\tlayering= αether changes eventually spell attributes.\n\tdesign= optimise spell blocks or provide contingencies.",
+            "content": "epigraphy≡ inscription∈ (engineering∩ alchemy∩ metamagic):\n\tglyph= permanent symbolic carvings\n\tcircuit= slightly affects forced αether, designed around specific input from specific flux direction.\n\tpartitioning= surface determines canvas, complexity fills canvas, compelling choice what to carve.\n\tsmart= gnosis glyph triggers.\n\tfixture= requires meticulous design.\n\tlayering= αether changes eventually spell attributes.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -894,7 +894,8 @@
         "25": {
             "uid": 25,
             "key": [
-                "/(?<!\\\\)\\b[Cc]osm(ic)?(ism)?(olog)?y?(ie)?(s)?\\b(?![≡∩∪∈])/"
+                "/(?<!\\\\)\\b[Cc]osm(ic)?(ism)?(olog)?y?(ie)?(s)?\\b(?![≡∩∪∈])/",
+                "/(?<!\\\\)\\b[Ww][\\s-][Aa]xi?e?s?\\b(?![≡∩∪∈])/"
             ],
             "keysecondary": [],
             "comment": "\tcosmology",
