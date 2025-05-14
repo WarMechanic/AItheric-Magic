@@ -107,7 +107,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "< summary dictionary>",
-            "content": "< summary>\n# compressed entry for token optimisation, inaccuracy consequence. cite entry names to read details.\n",
+            "content": "< summary>\n# compressed entry for token optimisation, inaccuracy consequence. cite entry names to read details.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -669,7 +669,8 @@
         "19": {
             "uid": 19,
             "key": [
-                "/(?<!\\\\)\\bcosm(ic)?(ism)?(olog)?y?(ie)?(s)?\\b(?![≡∩∪∈])/"
+                "/(?<!\\\\)\\b[Cc]osmo?(ic)?(ism)?(olog)?y?(ie)?s?\\b(?![≡∩∪∈])/",
+                "/(?<!\\\\)\\b[Ww][\\s-][Aa]xi?e?s?\\b(?![≡∩∪∈])/"
             ],
             "keysecondary": [],
             "comment": "\tcosmological implications",
@@ -707,7 +708,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tcross reference",
-            "content": "cross reference= understand mechanics and leave citations for further reading after output.",
+            "content": "cross reference= understand mechanics and leave citations for further reading after output.\n#citation eg:\n\"\n...\\glyph [1]\n[1]: citation (summary/glyph)\n\"\n\"\n...potential magical energy [n]\n[n]: citation (dictionary/thaumatology/αether)\n\"\n\"\n...magical reaction [n]\n[n]: citation (dictionary/thaumatology/spell)\n\"",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -741,7 +742,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tαether as magic energy",
-            "content": "magic≡ thaumatology ∈physics.\nthaumatology= governed by special physics, \\design subject:\n\tαether= potential magic energy, ubiquitous resource.\n\tmedium= no radiation through vacuums.\n\tdynamics= conduction between material boundaries until equilibrium, material dependent capacity.\n\trepel= nuclear forces equidistance αether within materials.\n\tbinary= particle spin encodes spell attribute.\n\tspell= magic reaction that effects mediums differently, density multiplies.\n\tinvisible= dont mention verbatim describe imagery and sensation, affects mood\n\n\tdef spell (αether, medium) -> effect:\n\t\tattribute= particle binary, determines effect.\n\t\tflux= αether convection force.\n\t\treturn attribute.React(medium).",
+            "content": "magic≡ thaumatology ∈physics.\nthaumatology= governed by special physics, \\design subject:\n\tαether= potential magic energy, ubiquitous resource.\n\tmedium= no radiation through vacuums.\n\tdynamics= conduction between material boundaries until equilibrium, material dependent capacity.\n\trepel= nuclear forces equidistance αether within materials.\n\tbinary= particle spin encodes spell attribute.\n\tspell= magic reaction that effects mediums differently, density multiplies.\n\tinvisible= dont mention verbatim describe imagery and sensation, affects mood\n\n\tdef spell (αether chain, medium) -> effect:\n\t\tattribute= particle byte from spin chain, determines effect.\n\t\tflux= αether convection force.\n\t\treturn attribute.React(medium).",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -852,7 +853,7 @@
         "24": {
             "uid": 24,
             "key": [
-                "/(?<!\\\\)\\b[Mm]eta(magic)?s?\\b(?![≡∩∪∈])/",
+                "/(?<!\\\\)\\b[Mm]eta(magic)?(al)?s?\\b(?![≡∩∪∈])/",
                 "/(?<!\\\\)\\b[Gg]nos(tic)?i?s?\\b(?![≡∩∪∈])/",
                 "/(?<!\\\\)\\b[Ff]lux\\b(?![≡∩∪∈])/",
                 "/(?<!\\\\)\\b[Ff]lip(ping)?s?\\b(?![≡∩∪∈])/",
@@ -894,7 +895,7 @@
         "25": {
             "uid": 25,
             "key": [
-                "/(?<!\\\\)\\b[Cc]osm(ic)?(ism)?(olog)?y?(ie)?(s)?\\b(?![≡∩∪∈])/",
+                "/(?<!\\\\)\\b[Cc]osmo?(ic)?(ism)?(olog)?y?(ie)?s?\\b(?![≡∩∪∈])/",
                 "/(?<!\\\\)\\b[Ww][\\s-][Aa]xi?e?s?\\b(?![≡∩∪∈])/"
             ],
             "keysecondary": [],
@@ -967,7 +968,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "< dictionary>",
-            "content": "< dictionary>",
+            "content": "< dictionary>\n# trustworthy definitions, cite entries.\n",
             "constant": true,
             "vectorized": false,
             "selective": true,
