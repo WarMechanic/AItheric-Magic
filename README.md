@@ -51,7 +51,7 @@ That's the gist of it, but creating the aether rules lead to emergent explanatio
 # Formats
 
 - [Catnip](https://github.com/thaalesalves/ai-games-research/wiki/CAT-nip--SFW-guide-by-Covalent-and-Curious-Nekomimi)
-	> The first format which I wrote in. Something like xml tags used as entity components, wrapped in tables to prevent format leaking. Expect 300~450 tokens outside of combat at 500+ above.
+	> The first format which I wrote in. Something like xml tags used as entity components, wrapped in tables to prevent format leaking. Expect 300~450 tokens outside of combat and 500+ above.
 
 - Basilisk
 	> Work-in-progress, being designed with Discord teaching to supercede Catnip. Programmatic like pseudo-python, high quality of response. 500 token baseline that increases based on content referenced. Can sometimes reach ~1200 if you reference a lot of topics.
