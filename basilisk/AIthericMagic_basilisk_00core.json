@@ -676,18 +676,18 @@
         "19": {
             "uid": 19,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]osmo?(ic)?(ism)?(log)?y?(ie)?s?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ww][\\s-][Aa]xis\\b(?![=≡∩∪⊂∈])/"
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Gg]houl?(ish)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Zz]ombie?(fication)?s?\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
-            "comment": "\tdeities and extraplane tropes",
-            "content": "deity= dimensional entity, create& sustain breaches at whim, powerful magic:\n\t∞ hierarchy= always bigger deities, all mortal.\n\ninsignificant universe= space is massive, deities \\tunnel years away not noticing earth.\n\nheavens∪ hells∪ universes∪ paradises∪ abysses∪ voids∪ other∈ cosmos.",
+            "comment": "\tghouls",
+            "content": "ghoul= necrotic individual cheating death, distinct from zombie:\n\thighlander immortality= dark \\magic prevents brain decay.",
             "constant": false,
             "vectorized": false,
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 49,
+            "order": 48,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1068,7 +1068,10 @@
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Ee]xplo(sion)?d?e?(ing)?s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Bb]last(ing)?s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd]ead?(th)?s?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd][iy]e?(ing)?s?\\\\b(?![=≡∩∪⊂∈])/"
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd][iy]e?(ing)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]oma(tose)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Rr]esuscitations?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Rr]esurrections?\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
             "comment": "\tcombat",
@@ -1370,7 +1373,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 47,
+            "order": 46,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1404,7 +1407,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 48,
+            "order": 47,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1904,7 +1907,10 @@
             "uid": 52,
             "key": [
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd]ead?(th)?s?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd][iy]e?(ing)?s?\\\\b(?![=≡∩∪⊂∈])/"
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd][iy]e?(ing)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]oma(tose)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Rr]esuscitations?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Rr]esurrections?\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
             "comment": "\tdeath",
@@ -1972,6 +1978,43 @@
             "cooldown": 0,
             "delay": 0,
             "displayIndex": 36
+        },
+        "54": {
+            "uid": 54,
+            "key": [
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]osmo?(ic)?(ism)?(log)?y?(ie)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ww][\\s-][Aa]xis\\b(?![=≡∩∪⊂∈])/"
+            ],
+            "keysecondary": [],
+            "comment": "\tdeities and extraplane tropes",
+            "content": "deity= dimensional entity, create& sustain breaches at whim, powerful magic:\n\t∞ hierarchy= always bigger deities, all mortal.\n\ninsignificant universe= space is massive, deities \\tunnel years away not noticing earth.\n\nheavens∪ hells∪ universes∪ paradises∪ abysses∪ voids∪ other∈ cosmos.",
+            "constant": false,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 49,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "displayIndex": 48
         }
     }
 }
