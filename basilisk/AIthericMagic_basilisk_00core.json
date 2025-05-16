@@ -1498,7 +1498,7 @@
             ],
             "keysecondary": [
                 "citation",
-                "/\\[\\d+\\][.,]\\s/"
+                "/\\[\\d+\\][.,]?\\s/"
             ],
             "comment": "\t\tcitation example",
             "content": "#citation eg:\n\"\n...circuit... [1].\n\n<!--\n[1]: citation (summary/glyph)\n--!>\n\"\n\"\n...potential magical energy ... magical reaction [1], [n].\n\n<!--\n[1]: citation (ruleset/thaumatology/αether)\n[n]: citation (ruleset/thaumatology/spell)\n--!>\n\"",
