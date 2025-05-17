@@ -32,7 +32,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 251
+            "displayIndex": 252
         },
         "1": {
             "uid": 1,
@@ -66,7 +66,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 238
+            "displayIndex": 239
         },
         "2": {
             "uid": 2,
@@ -100,7 +100,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 241
+            "displayIndex": 242
         },
         "3": {
             "uid": 3,
@@ -134,7 +134,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 202
+            "displayIndex": 203
         },
         "4": {
             "uid": 4,
@@ -168,7 +168,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 239
+            "displayIndex": 240
         },
         "5": {
             "uid": 5,
@@ -202,7 +202,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 240
+            "displayIndex": 241
         },
         "6": {
             "uid": 6,
@@ -236,7 +236,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 242
+            "displayIndex": 243
         },
         "7": {
             "uid": 7,
@@ -272,7 +272,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 243
+            "displayIndex": 244
         },
         "8": {
             "uid": 8,
@@ -310,14 +310,14 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 244
+            "displayIndex": 245
         },
         "9": {
             "uid": 9,
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary metamagic",
-            "content": "metamagic= meta attributes that influence magic on particle level:\n\tgnosis∪ flux∪ flip∪ string∪ hush∪ peer∪ meme⊂ metamagic⊂ atomic.",
+            "content": "magic⊃ metamagic= meta attributes that influence magic on particle level:\n\tgnosis∪ flux∪ flip∪ string∪ hush∪ peer∪ meme⊂ metamagic⊂ atomic.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -344,7 +344,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 208
+            "displayIndex": 209
         },
         "10": {
             "uid": 10,
@@ -378,14 +378,14 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 203
+            "displayIndex": 204
         },
         "11": {
             "uid": 11,
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary enchantment",
-            "content": "enchantment= dumb, hungry spell sticker, material symptom, stacks compete.",
+            "content": "magic⊃ enchantment= dumb, hungry spell sticker, material symptom, stacks compete.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -412,14 +412,14 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 207
+            "displayIndex": 208
         },
         "12": {
             "uid": 12,
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary alchemy",
-            "content": "alchemy= bidirectional, chemistry into magic.",
+            "content": "magic∩ chemistry ⊃alchemy= bidirectional, chemistry into magic.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -446,7 +446,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 206
+            "displayIndex": 207
         },
         "13": {
             "uid": 13,
@@ -461,7 +461,7 @@
             ],
             "keysecondary": [],
             "comment": "\tenchantment",
-            "content": "∀enchantment= boon, enchant, burden.\nenchantment= spell sticker⊂ magic:\n\tload= siphons material αether sustain.\n\tlingering= awaits cure∥ dispel∥ starve long temporary.\n\tdumb= simple material alteration.\n\tspecific= incompatible target results variable alteration.\n\tunsteady= \\designs \\consider enchantment dispelling.\n\tstacking= enchants compete.\n\titem= \\consider toggle glyph.",
+            "content": "boon∪ enchant∪ burden⊂ enchantment= spell sticker⊂ magic:\n\tload= siphons material αether sustain.\n\tlingering= awaits cure∥ dispel∥ starve long temporary.\n\tdumb= simple material alteration.\n\tspecific= incompatible target results variable alteration.\n\tunsteady= \\designs \\consider enchantment dispelling.\n\tstacking= enchants compete.\n\titem= \\consider toggle glyph.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -488,7 +488,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 221
+            "displayIndex": 222
         },
         "14": {
             "uid": 14,
@@ -522,7 +522,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 199
+            "displayIndex": 200
         },
         "15": {
             "uid": 15,
@@ -584,7 +584,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary cosmology",
-            "content": "cosmology= \\w axis, inter intra dimensional \\tunnel travel:\n\trift∪portal respectively.",
+            "content": "magic⊃ cosmology= \\w axis, inter intra dimensional \\tunnel travel:\n\trift∪portal respectively.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -611,7 +611,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 209
+            "displayIndex": 210
         },
         "17": {
             "uid": 17,
@@ -647,7 +647,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 252
+            "displayIndex": 253
         },
         "18": {
             "uid": 18,
@@ -689,7 +689,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 223
+            "displayIndex": 224
         },
         "19": {
             "uid": 19,
@@ -734,7 +734,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tcross reference",
-            "content": "cross reference= understand mechanics leave citations for further reading.\n\tcitations block= \"<!--...--!>\".\t\n\tin text citation= \"[1], [2], ... [n]\".\n\tbrief= citations are for further reading, no elaborations.",
+            "content": "cross reference= understand mechanics leave citations for further reading.\n\tin text citation= \" [1], [2], ... [n]\".\n\tcitations block= \"\n\t\t<!--\n\t\t[1]: citation (path/to/entry)\n\t\t--!>\n\t\".\n\tbrief= citations are for further reading, no elaborations.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -761,7 +761,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 245
+            "displayIndex": 246
         },
         "21": {
             "uid": 21,
@@ -811,7 +811,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 232
+            "displayIndex": 233
         },
         "22": {
             "uid": 22,
@@ -851,7 +851,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 219
+            "displayIndex": 220
         },
         "23": {
             "uid": 23,
@@ -892,7 +892,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 218
+            "displayIndex": 219
         },
         "24": {
             "uid": 24,
@@ -934,7 +934,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 220
+            "displayIndex": 221
         },
         "25": {
             "uid": 25,
@@ -944,7 +944,7 @@
             ],
             "keysecondary": [],
             "comment": "\tcosmology",
-            "content": "w tunneling⊂ cosmology⊂ magic.\n\nw space= existence plane:\n\tcosmos= set of ∞ w spaces.\n\tmodulo= marginal w delta yields alien universes.\n\tshared reality= ∀w physics. all w spaces abide exact physics.\n\tshortcuts= inconsistent xyz mapping exploited for fast, not instantaneous travel.\n\ttime= unbreaking. dilation. no splits no alternate self.\n\t∞ accuracy= finding dimensions improbable, unless both sides \\tunnel.\n\t∃ threat= dimensions watch but inaccurate, encounter improbable until \\tunnel.\n\t\\tunnel appearance= bézier entrance, corridor curve stability affected, infinite w slices, see cosmic veins.",
+            "content": "magic⊃ cosmology⊃ w space= existence plane:\n\tcosmos= set of ∞ w spaces.\n\tmodulo= marginal w delta yields alien universes.\n\tshared reality= ∀w physics. all w spaces abide exact physics.\n\tshortcuts= inconsistent xyz mapping exploited for fast, not instantaneous travel.\n\ttime= unbreaking. dilation. no splits no alternate self.\n\t∞ accuracy= finding dimensions improbable, unless both sides \\tunnel.\n\t∃ threat= dimensions watch but inaccurate, encounter improbable until \\tunnel.\n\t\\tunnel appearance= bézier entrance, corridor curve stability affected, infinite w slices, see cosmic veins.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -971,7 +971,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 222
+            "displayIndex": 223
         },
         "26": {
             "uid": 26,
@@ -1005,7 +1005,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 215
+            "displayIndex": 216
         },
         "27": {
             "uid": 27,
@@ -1039,7 +1039,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 216
+            "displayIndex": 217
         },
         "28": {
             "uid": 28,
@@ -1073,7 +1073,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 204
+            "displayIndex": 205
         },
         "29": {
             "uid": 29,
@@ -1123,7 +1123,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 233
+            "displayIndex": 234
         },
         "30": {
             "uid": 30,
@@ -1165,7 +1165,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 247
+            "displayIndex": 248
         },
         "31": {
             "uid": 31,
@@ -1176,7 +1176,7 @@
                 "/(?<![\\\\=≡∩∪∝∋⊋⊇⊃⊂⊆⊈∈])\\b[Tt]haumatology?(ical)?\\b(?![=≡∩∪∝∋⊋⊇⊃⊂⊆⊈∈])/"
             ],
             "comment": "\tsummary magic",
-            "content": "magic≡ thaumatology= channel ubiquitous magical energy to effect spells, affects mood.",
+            "content": "physics⊃ magic≡ thaumatology= channel ubiquitous magical energy to effect spells, affects mood.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -1203,7 +1203,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 210
+            "displayIndex": 211
         },
         "32": {
             "uid": 32,
@@ -1237,7 +1237,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 249
+            "displayIndex": 250
         },
         "33": {
             "uid": 33,
@@ -1271,7 +1271,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 200
+            "displayIndex": 201
         },
         "34": {
             "uid": 34,
@@ -1305,7 +1305,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 201
+            "displayIndex": 202
         },
         "35": {
             "uid": 35,
@@ -1347,7 +1347,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 248
+            "displayIndex": 249
         },
         "36": {
             "uid": 36,
@@ -1385,7 +1385,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 250
+            "displayIndex": 251
         },
         "37": {
             "uid": 37,
@@ -1487,7 +1487,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 213
+            "displayIndex": 214
         },
         "40": {
             "uid": 40,
@@ -1526,7 +1526,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 246
+            "displayIndex": 247
         },
         "41": {
             "uid": 41,
@@ -1560,7 +1560,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 212
+            "displayIndex": 213
         },
         "42": {
             "uid": 42,
@@ -1571,7 +1571,7 @@
             ],
             "keysecondary": [],
             "comment": "\tαether as magic energy",
-            "content": "magic⊂ thaumatology≡ arcane physics ⊂physics.\nthaumatology= governed by special physics, \\design subject:\n\tαether= potential magic energy, ubiquitous resource.\n\tmedium= no radiation through vacuums.\n\tdynamics= conduction between material boundaries until equilibrium, material dependent capacity.\n\trepel= nuclear like forces equidistance αether within materials, ripples can be detected.\n\tbinary= particle spin encodes spell attribute.\n\tinvisible= dont mention verbatim describe imagery and sensation, affects mood\n\tspell= magic reaction that effects mediums differently.",
+            "content": "physics⊃ arcane physics≡ thaumatology⊃ magic= governed by special physics, \\design subject:\n\tαether= potential magic energy, ubiquitous resource.\n\tmedium= no radiation through vacuums.\n\tdynamics= conduction between material boundaries until equilibrium, material dependent capacity.\n\trepel= nuclear like forces equidistance αether within materials, ripples can be detected.\n\tbinary= particle spin encodes spell attribute.\n\tinvisible= dont mention verbatim describe imagery and sensation, affects mood\n\tspell= magic reaction that effects mediums differently.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1598,7 +1598,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 224
+            "displayIndex": 225
         },
         "43": {
             "uid": 43,
@@ -1609,7 +1609,7 @@
             ],
             "keysecondary": [],
             "comment": "\tmonsters",
-            "content": "monster⊂magic users.\n\tbeastly= generally uses intuition casting, unless explicitly excepted.",
+            "content": "monster⊂magic users:\n\tbeastly= generally uses intuition casting, unless explicitly excepted.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1673,7 +1673,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 226
+            "displayIndex": 227
         },
         "45": {
             "uid": 45,
@@ -1710,7 +1710,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 228
+            "displayIndex": 229
         },
         "46": {
             "uid": 46,
@@ -1747,7 +1747,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 230
+            "displayIndex": 231
         },
         "47": {
             "uid": 47,
@@ -1787,7 +1787,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 225
+            "displayIndex": 226
         },
         "48": {
             "uid": 48,
@@ -1823,7 +1823,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 227
+            "displayIndex": 228
         },
         "49": {
             "uid": 49,
@@ -1859,7 +1859,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 229
+            "displayIndex": 230
         },
         "50": {
             "uid": 50,
@@ -1895,7 +1895,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 231
+            "displayIndex": 232
         },
         "51": {
             "uid": 51,
@@ -1907,7 +1907,7 @@
             ],
             "keysecondary": [],
             "comment": "\twizards and witches",
-            "content": "mage⊂magic users.\n\twizard∪ witch⊂ mage.\n\twizard≡ male.\n\twitch≡ female.",
+            "content": "mage⊂magic users:\n\twizard∪ witch⊂ mage.\n\twizard≡ male.\n\twitch≡ female.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1948,7 +1948,7 @@
             ],
             "keysecondary": [],
             "comment": "\tdeath",
-            "content": "critical=  ¬lethal comatose:\n\tdeaths door= delayed after clinical death. erodes memory. human mean= 24 hours. σ= 6 hours. \n\tresuscitation= restoring brain circulation lowers deaths door to comatose.\n\tgibbing= requires substantial rehabilitation recovery unlikely (assuming brain survival).\n\tbrain death= irrevocably cease existing.\n\tresurrection= hollow necromantic imitation missing personality.\n\tintervention= only deities reverse death, clone or imitation?",
+            "content": "dying⊃ critical=  ¬lethal comatose:\n\tdeaths door= delayed after clinical death. erodes memory. human mean= 24 hours. σ= 6 hours. \n\tresuscitation= restoring brain circulation lowers deaths door to comatose.\n\tgibbing= requires substantial rehabilitation recovery unlikely (assuming brain survival).\n\tbrain death= irrevocably cease existing.\n\tresurrection= hollow necromantic imitation missing personality.\n\tintervention= only deities reverse death, clone or imitation?",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1975,7 +1975,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 217
+            "displayIndex": 218
         },
         "53": {
             "uid": 53,
@@ -1988,7 +1988,7 @@
             ],
             "keysecondary": [],
             "comment": "\tmagic items",
-            "content": "magic items⊂ crafts∩ ( epigraphy∪ alchemy ).\nmagic items= designed to facilitate magic:\n\tmechanical= glyph items typically machine cast. typically designed specific attribute since conversions add complexity.\n\talchemical= items cast spells upon chemical input or inverse. typically medicines, explosives or utility.\n\tpermanence= enchantments excluded because ephemerality.",
+            "content": "(epigraphy∪ alchemy)∩ crafts⊃ magic items= designed to facilitate magic:\n\tmechanical= glyph items typically machine cast. typically designed specific attribute since conversions add complexity.\n\talchemical= items cast spells upon chemical input or inverse. typically medicines, explosives or utility.\n\tpermanence= enchantments excluded because ephemerality.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2015,7 +2015,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 198
+            "displayIndex": 199
         },
         "54": {
             "uid": 54,
@@ -2025,7 +2025,7 @@
             ],
             "keysecondary": [],
             "comment": "\tdeities and extraplane tropes",
-            "content": "deity= dimensional entity, create& sustain breaches at whim, powerful magic:\n\t∞ hierarchy= always bigger deities, all mortal.\n\ninsignificant universe= space is massive, deities \\tunnel years away not noticing earth.\n\nheavens∪ hells∪ universes∪ paradises∪ abysses∪ voids∪ other∈ cosmos.",
+            "content": "deity= dimensional entity, create& sustain breaches at whim, powerful magic:\n\t∞ hierarchy= always bigger deities, all mortal.\n\ninsignificant universe= space is massive, deities \\tunnel years away not noticing earth.\n\nheavens∪ hells∪ universes∪ paradises∪ abysses∪ voids∪ other⊂ cosmos.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2073,7 +2073,7 @@
             ],
             "keysecondary": [],
             "comment": "\tintel",
-            "content": "intel⊂ awareness:\n\tsubsets= vision cones, listen, gnosis⊂ feel (from mage∪item).\n\tuncertainty≡ fog= intel'.\n\tworld= universal set intel∪fog.\n\tscope= high viewpoint may extend sight, lacks detail.\n\tterrain= open fields have better vision forests.\n\tobfuscation= muffling sound, concealing appearance, hushing spells, overwhelming \\gnosis.\n\tinformation warfare= controlling intel, knowing more than enemies.\n\t\tambush= staged \\battle anticipating opponent, \\attackers usually exploit terrain.",
+            "content": "intel⊃ awareness⊃ vision cones, listen, gnosis (from mage∪item):\n\tuncertainty≡ fog= intel'.\n\tworld= universal set intel∪fog.\n\tscope= high viewpoint may extend sight, lacks detail.\n\tterrain= open fields have better vision forests.\n\tobfuscation= muffling sound, concealing appearance, hushing spells, overwhelming \\gnosis.\n\tinformation warfare= controlling intel, knowing more than enemies.\n\t\tambush= staged \\battle anticipating opponent, \\attackers usually exploit terrain.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2100,7 +2100,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 237
+            "displayIndex": 238
         },
         "56": {
             "uid": 56,
@@ -2144,7 +2144,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary intel",
-            "content": "intel= vision cones∪ listen∪ gnosis.\n\tuncertainty= intel'.",
+            "content": "universe⊃ intel= vision cones∪ listen∪ gnosis.\n\tuncertainty= intel' ⊂ universe.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -2171,14 +2171,14 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 214
+            "displayIndex": 215
         },
         "58": {
             "uid": 58,
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary epigraphy",
-            "content": "glyph= smart space partitioning carvings into material form \\magic circuits with layered effects. used for \\magic items.",
+            "content": "magic⊃ glyph= smart space partitioning carvings into material form \\magic circuits with layered effects. used for \\magic items.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -2205,7 +2205,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 205
+            "displayIndex": 206
         },
         "59": {
             "uid": 59,
@@ -2214,7 +2214,7 @@
             ],
             "keysecondary": [],
             "comment": "\trituals",
-            "content": "ritual∈ spellcasting behaviour:\n\tstaged= reagents are arranged for effect.\n\tlingering= typically has protracted effect, depends on ritual.",
+            "content": "ritual⊂ spellcasting behaviour:\n\tstaged= reagents are arranged for effect.\n\tlingering= typically has protracted effect, depends on ritual.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2287,7 +2287,7 @@
             ],
             "keysecondary": [],
             "comment": "\ttablets",
-            "content": "tablet⊂magic items.\ntablet⊂ rituals⊄socketable:\n\tcircuit brick= programmatic rune-like behaviour when arranged.\n\tcivil engineering= typically used housing and installations.",
+            "content": "magic items⊃ tablet⊂ rituals⊄socketable:\n\tcircuit brick= programmatic rune-like behaviour when arranged.\n\tcivil engineering= typically used housing and installations.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2324,7 +2324,7 @@
             ],
             "keysecondary": [],
             "comment": "\tsockets and runes",
-            "content": "socketable⊂magic items.\nsocket= hollow in \\magic item intended for socketable, modular behaviour:\n\trune= socketable implementing glyph circuits:\n\t\tmaterial= typically αether conductive, crystals or carved metals.\n\toverhead= socket adaptation trades maximum potential for adaptability.",
+            "content": "socketable⊂magic items:\n\tsocket= hollow in \\magic item intended for socketable, modular behaviour:\n\t\trune= socketable implementing glyph circuits:\n\t\t\tmaterial= typically αether conductive, crystals or carved metals.\n\toverhead= socket adaptation trades maximum potential for adaptability.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2360,7 +2360,7 @@
             ],
             "keysecondary": [],
             "comment": "\tspellcasting foci",
-            "content": "spellcasting foci⊂ magic items.\nspellcasting foci= spellcasting periphery used by mages.\n\tdesign subject= stakeholder needs vary by individual. foci vary widely, be imaginative.\n\tstereotypical mage implements⊂ spellcasting foci.",
+            "content": "magic items⊃ spellcasting foci= spellcasting periphery used by mages.\n\tdesign subject= stakeholder needs vary by individual. foci vary widely, be imaginative.\n\tstereotypical mage implements⊂ spellcasting foci.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2617,7 +2617,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t\t└expanded",
-            "content": "\t\ttome≡ spellbook≡ grimoire.\n\t\tgrimoire⊂ spellcasting foci: \n\t\t\tbook= pages implement scrolls, both procedural and machine cast.\n\t\t\tmnemonic= some have glyph page search function. some send formulae to brain.\n\t\t\tusers= require many spells.\n\t\t\tbinding= resistive polished leather, reduces αether fluctuation while closed, protect pages.",
+            "content": "\t\ttome≡ spellbook≡ grimoire⊂ spellcasting foci: \n\t\t\tbook= pages implement scrolls, both procedural and machine cast.\n\t\t\tmnemonic= some have glyph page search function. some send formulae to brain.\n\t\t\tusers= require many spells.\n\t\t\tbinding= resistive polished leather, reduces αether fluctuation while closed, protect pages.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2728,7 +2728,7 @@
             ],
             "keysecondary": [],
             "comment": "\tsplash effects",
-            "content": "splash= expanding effect shape:\n\tepicenter= start position.\n\tintensity∝1÷r^2.\n\teffect= exposure× intensity. prone < standing with horizontally offset epicenter.\n\tabsorption= objects interrupt splash.\n\toptional∋ shockwave= intensity∝ air density.",
+            "content": "splash= expanding effect shape at epicenter:\n\tintensity∝1÷r^2.\n\teffect= exposure× intensity. prone < standing with horizontally offset epicenter.\n\tabsorption= objects interrupt splash.\n\toptional∋ shockwave= intensity∝ air density.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2840,7 +2840,7 @@
                 "/(?<![\\\\=≡∩∪∝∋⊋⊇⊃⊂⊆⊈∈])\\b[Ss]pell(cast)?(ing)?s?\\b(?![=≡∩∪∝∋⊋⊇⊃⊂⊆⊈∈])/"
             ],
             "comment": "\tsummary spellcasting",
-            "content": "intuition casting∪ procedural casting∈ spellcasting behaviours.\n\tmachine casting∈ intuition casting.\n\nintuition casting≡ muscular quick casting.\nmachine casting≡magic item usage.\nprocedural casting≡ brain concentrated casting.",
+            "content": "intuition casting∪ procedural casting⊂ spellcasting behaviours:\n\tmachine casting⊂ intuition casting.\n\nintuition casting≡ muscular quick casting.\nmachine casting≡magic item usage.\nprocedural casting≡ brain concentrated casting.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -2867,7 +2867,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 211
+            "displayIndex": 212
         },
         "77": {
             "uid": 77,
@@ -3172,7 +3172,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\ttattoos",
-            "content": "\ttattoos⊂= glyphs \\inked on skin.",
+            "content": "\ttattoos= glyphs \\inked on skin.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3283,7 +3283,7 @@
             ],
             "keysecondary": [],
             "comment": "\ttrinkets",
-            "content": "trinkets⊂ magic items.\ntrinkets= typically worn for passive or reactive effect:",
+            "content": "magic items⊃ trinkets= typically worn for passive or reactive effect:",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3433,7 +3433,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\ttalismen≡ pendants≡ necklaces≡ amulets⊂ trinkets.\n\tamulets=  passive∪ reactive∪ utility necklace:\n\t\tlarge crystal= enough size for reactive casting or strong passive. singleton.\n\t\tmultiple crystals∪ glyphs= potential magic tool. versatile suite of utility effects.",
+            "content": "\ttrinkets⊃ talismen≡ pendants≡ necklaces≡ amulets=  passive∪ reactive∪ utility necklace:\n\t\tlarge crystal= enough size for reactive casting or strong passive. singleton.\n\t\tmultiple crystals∪ glyphs= potential magic tool. versatile suite of utility effects.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3470,7 +3470,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\tsignet≡ rings⊂ trinkets.\n\trings= minor passive∪ utility:\n\t\tsmall= generally convey minor bonuses, size limits complexity.\n\t\t10 fingers= quality of life utilities, or small adjustments.",
+            "content": "\ttrinkets⊃ signet≡ rings= minor passive∪ utility:\n\t\tsmall= generally convey minor bonuses, size limits complexity.\n\t\t10 fingers= quality of life utilities, or small adjustments.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3507,7 +3507,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\twards≡ charms⊂ trinkets.\n\tcharms= consumable reactive glyph.\n\t\tglyphed reagent= glyph and reagent pair. papyrus simplest inexpensive reagent.\n\t\tdefense= burst protection charms counter specific lethal effects.\n\t\tdeterrent= deployable wards reactively alert or effect specific unwanted visitors.",
+            "content": "\ttrinkets⊃ wards≡ charms= consumable reactive glyph.\n\t\tglyphed reagent= glyph and reagent pair. papyrus simplest inexpensive reagent.\n\t\tdefense= burst protection charms counter specific lethal effects.\n\t\tdeterrent= deployable wards reactively alert or effect specific unwanted visitors.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3692,7 +3692,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\tslash⊂ martial styles.\n\tslash= leveraging swing across arc, lacerates line.\n\t\tcleave= lacerate surface continuing, potentially hitting another.\n\t\tscrape= insufficient force∝armour.\n\t\thack= insufficient force∝hull, weapon lodges.\n\t\tsever= weapon dismembers hull, continuing.",
+            "content": "\tmartial styles⊃ slash= leveraging swing across arc, lacerates line.\n\t\tcleave= lacerate surface continuing, potentially hitting another.\n\t\tscrape= insufficient force∝armour.\n\t\thack= insufficient force∝hull, weapon lodges.\n\t\tsever= weapon dismembers hull, continuing.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3736,7 +3736,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\tpierce⊂ martial styles.\n\tpierce= stab toward point.\n\t\tgraze= scratch victim continuing behind, potentially hitting another.\n\t\tdeflect= insufficient force∝armour.\n\t\tpuncture= weapon defeats armour lodging.\n\t\tperforate= weapon defeats meat protruding.",
+            "content": "\tmartial styles⊃ pierce= stab toward point.\n\t\tgraze= scratch victim continuing behind, potentially hitting another.\n\t\tdeflect= insufficient force∝armour.\n\t\tpuncture= weapon defeats armour lodging.\n\t\tperforate= weapon defeats meat protruding.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3772,7 +3772,7 @@
             ],
             "keysecondary": [],
             "comment": "\tmartial weapons",
-            "content": "martial weapon= conventional weapon embodied by martial style:",
+            "content": "martial weapon= conventional weapon∋ martial style:",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3815,7 +3815,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\tforce⊂ martial styles.\n\tforce= all weapons impart force. hammers leverage momentum.\n\t\toverwhelm= ignore conventional armour, force imparts energy to hull.\n\t\tbatter= compress surface inward.\n\t\ttap= insufficient force∝hull, energy disperses.\n\t\tstagger= forced inertia topples stance.\n\t\tcrush= force destroys armour.\n\t\tcollapse= force destroys hull.",
+            "content": "\tmartial styles⊃ force= all weapons impart force. hammers leverage momentum.\n\t\toverwhelm= ignore conventional armour, force imparts energy to hull.\n\t\tbatter= compress surface inward.\n\t\ttap= insufficient force∝hull, energy disperses.\n\t\tstagger= forced inertia topples stance.\n\t\tcrush= force destroys armour.\n\t\tcollapse= force destroys hull.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -4470,7 +4470,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\tmelee",
-            "content": "\tmelee⊂ combat.\n\tmelee= a combatant intends martial style.\n\t\tthreat radius= range (min, max) for martial weapon.\n\t\t\tapplied example= spear range (2, 3) as haft isn't lethal as tip.\n\t\topportunity≡ frame advantage= comparator (A−B) lag of attack momentum or recovery determines advantage. faster attack wins.\n\t\tcounter= mutual attacks with winner denoted as \"(attacker → victim)\" or \"(winner → loser)\" for clarity.\n\t\t\tapplied example= \"...John quick \\slashes the Brute as it over commits its \\slam (John → Brute)...\".\n\t\tpress attack= fit biggest practical into advantage. \n\t\tbait= neutral feint radius attacks to counter.",
+            "content": "\tcombat ⊃melee= a combatant intends martial style.\n\t\tthreat radius= range (min, max) for martial weapon.\n\t\t\tapplied example= spear range (2, 3) as haft isn't lethal as tip.\n\t\topportunity≡ frame advantage= comparator (A−B) lag of attack momentum or recovery determines advantage. faster attack wins.\n\t\tcounter= mutual attacks with winner denoted as \"(attacker → victim)\" or \"(winner → loser)\" for clarity.\n\t\t\tapplied example= \"...John quick \\slashes the Brute as it over commits its \\slam (John → Brute)...\".\n\t\tpress attack= fit biggest practical into advantage. \n\t\tbait= neutral feint radius attacks to counter.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -4497,7 +4497,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 234
+            "displayIndex": 235
         },
         "118": {
             "uid": 118,
@@ -4506,7 +4506,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\tranged",
-            "content": "\tranged⊂ combat.\n\tranged= ∃projectiles∪spells.\n\t\trange= attacks vary.\n\t\t\tdirect= radius∩ cover'.\n\t\t\tindirect= (displacement+imprecision)× air time.\n\t\t\tguided= radius−correction.\n\t\tthreat area= range∩ intel.\n\t\tsuppression field= Σthreat area. influence of overlapping range over behaviour.\n\t\tconfidence= comparator (synergy−suppression). abstracts risk vs reward.\n\t\timprecision∝distance.\n\t\tinaccuracy∝fog.",
+            "content": "\tcombat ⊃ranged= ∃projectiles∪spells.\n\t\trange= attacks vary.\n\t\t\tdirect= radius∩ cover'.\n\t\t\tindirect= (displacement+imprecision)× air time.\n\t\t\tguided= radius−correction.\n\t\tthreat area= range∩ intel.\n\t\tsuppression field= Σthreat area. influence of overlapping range over behaviour.\n\t\tconfidence= comparator (synergy−suppression). abstracts risk vs reward.\n\t\timprecision∝distance.\n\t\tinaccuracy∝fog.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -4533,7 +4533,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 235
+            "displayIndex": 236
         },
         "119": {
             "uid": 119,
@@ -4542,7 +4542,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\tuniversal",
-            "content": "\tincoming= combine illusions, misinformation, movement, barriers, parry, block, damage mitigation, or healing to defend oneself or allies. more layers is best.\n\tattrition= starve opponent resources or options forcing surrender or death.\n\thuman frailty= walking low mass organs, grievous wounds, swift death, retreat viable.\n\tno verbatim= numbers and numbers inform tactics, use visceral sensations and imagery, showoff personality and emotion.",
+            "content": "\tdefensive layers⊃ misinformation > movement > barrier > parry > block > armour > healing. more is better.\n\tattrition= starve opponent resources or options forcing surrender or death.\n\thuman frailty= walking low mass organs, grievous wounds, swift death, retreat viable.\n\tno verbatim= numbers and numbers inform tactics, use visceral sensations and imagery, showoff personality and emotion.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -4569,7 +4569,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 236
+            "displayIndex": 237
         },
         "120": {
             "uid": 120,
@@ -4652,7 +4652,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\tmelee⊂ martial styles.\n\tmelee= describes how weapon motion affects use:\n\t\tphysical∪magic damage∝ payload geometry.\n\t\tfulcrum= CoM relative to grip.\n\t\tleverage= sweeping fulcrum for momentum.\n\t\tmin range∝haft= non lethal weapon length.",
+            "content": "\tmartial styles⊃ melee= describes how weapon motion affects use:\n\t\tphysical∪magic damage∝ payload geometry.\n\t\tfulcrum= CoM relative to grip.\n\t\tleverage= sweeping fulcrum for momentum.\n\t\tmin range∝haft= non lethal weapon length.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -4691,7 +4691,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
-            "content": "\trange⊂ martial styles.\n\trange= effective distance of weapon:\n\t\toptional⊃ splash∪ direct∪ indirect∪ guided.\n\t\tnature= launcher∪ throw.\n\t\tprecision= radius of guaranteed target at effective distance.",
+            "content": "\tmartial styles⊃ range= effective distance of weapon:\n\t\toptional⊃ splash∪ direct∪ indirect∪ guided.\n\t\tnature= launcher∪ throw.\n\t\tprecision= radius of guaranteed target at effective distance.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -4827,7 +4827,45 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 197
+            "displayIndex": 198
+        },
+        "127": {
+            "uid": 127,
+            "key": [
+                "/\\s/"
+            ],
+            "keysecondary": [
+                "{{lastUserMessage}}"
+            ],
+            "comment": "(auto continue)",
+            "content": "(Automatically continue from last message, synthesising ruleset and historical events.)",
+            "constant": false,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 2,
+            "addMemo": true,
+            "order": 7000,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 0,
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": 1,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 1,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "displayIndex": 254
         }
     }
 }
