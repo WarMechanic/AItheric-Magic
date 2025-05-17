@@ -32,7 +32,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 240
+            "displayIndex": 242
         },
         "1": {
             "uid": 1,
@@ -66,7 +66,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 227
+            "displayIndex": 229
         },
         "2": {
             "uid": 2,
@@ -100,7 +100,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 230
+            "displayIndex": 232
         },
         "3": {
             "uid": 3,
@@ -113,7 +113,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6951,
+            "order": 6952,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -134,7 +134,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 193
+            "displayIndex": 196
         },
         "4": {
             "uid": 4,
@@ -168,7 +168,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 228
+            "displayIndex": 230
         },
         "5": {
             "uid": 5,
@@ -202,7 +202,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 229
+            "displayIndex": 231
         },
         "6": {
             "uid": 6,
@@ -236,7 +236,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 231
+            "displayIndex": 233
         },
         "7": {
             "uid": 7,
@@ -272,7 +272,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 232
+            "displayIndex": 234
         },
         "8": {
             "uid": 8,
@@ -310,20 +310,20 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 233
+            "displayIndex": 235
         },
         "9": {
             "uid": 9,
             "key": [],
             "keysecondary": [],
             "comment": "\tsummary metamagic",
-            "content": "metamagic= meta attributes that influence magic:\n\tgnosis∪ flux∪ flip∪ string∪ hush∪ peer∪ meme.",
+            "content": "metamagic= meta attributes that influence magic on particle level:\n\tgnosis∪ flux∪ flip∪ string∪ hush∪ peer∪ meme⊂ metamagic⊂ atomic.",
             "constant": true,
             "vectorized": false,
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6957,
+            "order": 6958,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -344,7 +344,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 199
+            "displayIndex": 202
         },
         "10": {
             "uid": 10,
@@ -357,7 +357,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6952,
+            "order": 6953,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -378,7 +378,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 194
+            "displayIndex": 197
         },
         "11": {
             "uid": 11,
@@ -391,7 +391,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6956,
+            "order": 6957,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -412,7 +412,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 198
+            "displayIndex": 201
         },
         "12": {
             "uid": 12,
@@ -425,7 +425,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6955,
+            "order": 6956,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -446,7 +446,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 197
+            "displayIndex": 200
         },
         "13": {
             "uid": 13,
@@ -488,7 +488,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 213
+            "displayIndex": 215
         },
         "14": {
             "uid": 14,
@@ -501,7 +501,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6948,
+            "order": 6949,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -522,7 +522,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 190
+            "displayIndex": 193
         },
         "15": {
             "uid": 15,
@@ -556,7 +556,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6884,
+            "order": 6883,
             "position": 0,
             "disable": false,
             "excludeRecursion": true,
@@ -590,7 +590,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6958,
+            "order": 6959,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -611,7 +611,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 200
+            "displayIndex": 203
         },
         "17": {
             "uid": 17,
@@ -647,7 +647,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 241
+            "displayIndex": 243
         },
         "18": {
             "uid": 18,
@@ -662,7 +662,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\ttunneling",
-            "content": "\tclass w tunnel∈ cosmology:\n\t\tvolume= xyz.\n\t\tno stationary universe= breaches drift.\n\t\tcoincidence= two intersecting tunnels.\n\t\tstability= tunnel resizing, w coordinate mapping cohesion prevents stretching.\n\t\tcostly= high αether+ reagent needs infrastructure.\n\t\tdef rift(volume, w1, w2, w curve): -> tunnel\n\t\t\treturn volume, w1 to w2 by w curve\tcross w travel.\n\t\tdef portal(w, area, displacement, xyzw trajectory): -> tunnel\n\t\t\tvolume= area* displacement.magnitude.\n\t\t\treturn volume, position1 to position2 by trajectory\tsame w shortcut.",
+            "content": "\tclass w tunnel∈ cosmology:\n\t\tvolume= xyz.\n\t\tno stationary universe= breaches drift.\n\t\tcoincidence= two intersecting tunnels.\n\t\tstability= tunnel resizing, w coordinate mapping cohesion prevents stretching.\n\t\tcostly= high αether+ reagent needs infrastructure.\n\t\tdef rift(volume, w1, w2, w curve): -> tunnel\n\t\t\treturn volume, w1 to w2 by w curve\t#inter w travel.\n\t\tdef portal(w, area, displacement, xyzw trajectory): -> tunnel\n\t\t\tvolume= area* displacement.magnitude.\n\t\t\treturn volume, position1 to position2 by trajectory\t#intra w shortcut.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -689,7 +689,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 215
+            "displayIndex": 217
         },
         "19": {
             "uid": 19,
@@ -727,7 +727,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 139
+            "displayIndex": 140
         },
         "20": {
             "uid": 20,
@@ -761,7 +761,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 234
+            "displayIndex": 236
         },
         "21": {
             "uid": 21,
@@ -811,12 +811,13 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 224
+            "displayIndex": 226
         },
         "22": {
             "uid": 22,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Aa]?l?C|chem(ist)?y?(ical)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Mm]agic(al)?[ -](?!([Uu]sers?)|(\\w+y))\\w+\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Aa]?l?[Cc]hem(y|(istr?(y|(ies))?)|(ical))s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Vv]ials?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Bb]eakers?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Tt]ubes?\\b(?![=≡∩∪⊂∈])/"
@@ -850,16 +851,17 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 211
+            "displayIndex": 213
         },
         "23": {
             "uid": 23,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Gg]lyph(ing)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Mm]agic(al)?[ -](?!([Uu]sers?)|(\\w+y))\\w+\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Gg]lyph(ing)?(ed)?s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Rr]unes?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ee]pigraphy?(er)?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ee]pigraph(y|(er))s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Ii]nscriptions?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]arve?(ing)?s?\\b(?![=≡∩∪⊂∈])/"
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]arv(e|(ing))s?\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
             "comment": "\tepigraphy",
@@ -890,7 +892,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 210
+            "displayIndex": 212
         },
         "24": {
             "uid": 24,
@@ -932,7 +934,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 212
+            "displayIndex": 214
         },
         "25": {
             "uid": 25,
@@ -969,7 +971,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 214
+            "displayIndex": 216
         },
         "26": {
             "uid": 26,
@@ -977,40 +979,6 @@
             "keysecondary": [],
             "comment": "</summary>",
             "content": "</summary prompt>",
-            "constant": true,
-            "vectorized": false,
-            "selective": true,
-            "selectiveLogic": 0,
-            "addMemo": true,
-            "order": 6964,
-            "position": 4,
-            "disable": false,
-            "excludeRecursion": false,
-            "preventRecursion": true,
-            "delayUntilRecursion": false,
-            "probability": 100,
-            "useProbability": true,
-            "depth": 1,
-            "group": "",
-            "groupOverride": false,
-            "groupWeight": 100,
-            "scanDepth": null,
-            "caseSensitive": null,
-            "matchWholeWords": null,
-            "useGroupScoring": null,
-            "automationId": "",
-            "role": 0,
-            "sticky": 0,
-            "cooldown": 0,
-            "delay": 0,
-            "displayIndex": 206
-        },
-        "27": {
-            "uid": 27,
-            "key": [],
-            "keysecondary": [],
-            "comment": "< ruleset>",
-            "content": "# authoritative= trustworthy definitions, cite entries.\n< ruleset prompt>",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -1037,7 +1005,41 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 207
+            "displayIndex": 209
+        },
+        "27": {
+            "uid": 27,
+            "key": [],
+            "keysecondary": [],
+            "comment": "< ruleset>",
+            "content": "# authoritative= trustworthy definitions, cite entries.\n< ruleset prompt>",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 6966,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "preventRecursion": true,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 1,
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "displayIndex": 210
         },
         "28": {
             "uid": 28,
@@ -1050,7 +1052,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6953,
+            "order": 6954,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1071,7 +1073,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 195
+            "displayIndex": 198
         },
         "29": {
             "uid": 29,
@@ -1094,7 +1096,7 @@
             ],
             "keysecondary": [],
             "comment": "\tcombat",
-            "content": "combat= 2+ opponents wrestling control:\n\tthreat radius= range (min, max) for martial and spell attacks. consider all attacks.\n\t\tapplied example= spear range (2, 3) as haft isn't lethal as tip.\n\topportunity≡ frame advantage= comparator (A - B) lag of attack momentum or recovery determines advantage. faster attack wins.\n\tcounter= mutual attacks with winner denoted as \"(attacker → victim)\" or \"(winner → loser)\" for clarity.\n\t\tapplied example= \"...John quick \\slashes the Brute as it over commits (John → Brute)...\".\n\tpress attack= fit biggest practical into advantage. \n\tbait= neutral feint radius attacks to counter.\n\tincoming= combine illusions, misinformation, movement, barriers, parry, block, damage mitigation, or healing to defend oneself or allies. more layers is best.\n\tattrition= starve opponent resources or options forcing surrender or death.\n\thuman frailty= walking low mass organs, grievous wounds, swift death, retreat viable.\n\tno verbatim= numbers and numbers inform tactics, use visceral sensations and imagery, showoff personality and emotion.",
+            "content": "combat= 2+ opponents wrestling control:\n\tthreat radius= range (min, max) for martial and spell attacks. consider all attacks.\n\t\tapplied example= spear range (2, 3) as haft isn't lethal as tip.\n\topportunity≡ frame advantage= comparator (A - B) lag of attack momentum or recovery determines advantage. faster attack wins.\n\tcounter= mutual attacks with winner denoted as \"(attacker → victim)\" or \"(winner → loser)\" for clarity.\n\t\tapplied example= \"...John quick \\slashes the Brute as it over commits its \\slam (John → Brute)...\".\n\tpress attack= fit biggest practical into advantage. \n\tbait= neutral feint radius attacks to counter.\n\tincoming= combine illusions, misinformation, movement, barriers, parry, block, damage mitigation, or healing to defend oneself or allies. more layers is best.\n\tattrition= starve opponent resources or options forcing surrender or death.\n\thuman frailty= walking low mass organs, grievous wounds, swift death, retreat viable.\n\tno verbatim= numbers and numbers inform tactics, use visceral sensations and imagery, showoff personality and emotion.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1121,7 +1123,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 226
+            "displayIndex": 228
         },
         "30": {
             "uid": 30,
@@ -1163,7 +1165,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 236
+            "displayIndex": 238
         },
         "31": {
             "uid": 31,
@@ -1180,7 +1182,7 @@
             "selective": true,
             "selectiveLogic": 2,
             "addMemo": true,
-            "order": 6959,
+            "order": 6960,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1201,7 +1203,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 201
+            "displayIndex": 204
         },
         "32": {
             "uid": 32,
@@ -1235,7 +1237,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 238
+            "displayIndex": 240
         },
         "33": {
             "uid": 33,
@@ -1248,7 +1250,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6949,
+            "order": 6950,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1269,7 +1271,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 191
+            "displayIndex": 194
         },
         "34": {
             "uid": 34,
@@ -1282,7 +1284,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6950,
+            "order": 6951,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1303,7 +1305,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 192
+            "displayIndex": 195
         },
         "35": {
             "uid": 35,
@@ -1345,7 +1347,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 237
+            "displayIndex": 239
         },
         "36": {
             "uid": 36,
@@ -1383,7 +1385,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 239
+            "displayIndex": 241
         },
         "37": {
             "uid": 37,
@@ -1417,7 +1419,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 137
+            "displayIndex": 138
         },
         "38": {
             "uid": 38,
@@ -1451,7 +1453,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 138
+            "displayIndex": 139
         },
         "39": {
             "uid": 39,
@@ -1464,7 +1466,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6963,
+            "order": 6964,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1485,7 +1487,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 205
+            "displayIndex": 208
         },
         "40": {
             "uid": 40,
@@ -1524,7 +1526,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 235
+            "displayIndex": 237
         },
         "41": {
             "uid": 41,
@@ -1537,7 +1539,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6961,
+            "order": 6962,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1558,7 +1560,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 203
+            "displayIndex": 206
         },
         "42": {
             "uid": 42,
@@ -1596,7 +1598,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 216
+            "displayIndex": 218
         },
         "43": {
             "uid": 43,
@@ -1634,7 +1636,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 141
+            "displayIndex": 142
         },
         "44": {
             "uid": 44,
@@ -1671,7 +1673,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 218
+            "displayIndex": 220
         },
         "45": {
             "uid": 45,
@@ -1708,7 +1710,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 220
+            "displayIndex": 222
         },
         "46": {
             "uid": 46,
@@ -1745,7 +1747,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 222
+            "displayIndex": 224
         },
         "47": {
             "uid": 47,
@@ -1785,7 +1787,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 217
+            "displayIndex": 219
         },
         "48": {
             "uid": 48,
@@ -1821,7 +1823,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 219
+            "displayIndex": 221
         },
         "49": {
             "uid": 49,
@@ -1857,7 +1859,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 221
+            "displayIndex": 223
         },
         "50": {
             "uid": 50,
@@ -1893,7 +1895,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 223
+            "displayIndex": 225
         },
         "51": {
             "uid": 51,
@@ -1932,7 +1934,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 142
+            "displayIndex": 143
         },
         "52": {
             "uid": 52,
@@ -1952,7 +1954,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6966,
+            "order": 6967,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1973,22 +1975,26 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 208
+            "displayIndex": 211
         },
         "53": {
             "uid": 53,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Mm]agic(al)?[ -](?!([Uu]sers?)|(\\w+y))\\w+\\b(?![=≡∩∪⊂∈])/"
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Mm]agic(al)?[ -](?!([Uu]sers?)|(\\w+y))\\w+\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Mm]edic((al)|(ine))?s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ss]alves?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ee]xplosives?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Bb]ombs?\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
             "comment": "\tmagic items",
-            "content": "magic item∈ (crafts∩ (epigraphy∪ alchemy)).\nmagic item= designed to facilitate magic:\n\tmechanical= glyph items typically machine cast. typically designed specific attribute since conversions add complexity.\n\talchemical= items cast spells upon chemical input or inverse. typically medicines, explosives or utility.\n\tpermanence= enchantments excluded because ephemerality.",
+            "content": "magic items⊂ crafts∩ ( epigraphy∪ alchemy ).\nmagic items= designed to facilitate magic:\n\tmechanical= glyph items typically machine cast. typically designed specific attribute since conversions add complexity.\n\talchemical= items cast spells upon chemical input or inverse. typically medicines, explosives or utility.\n\tpermanence= enchantments excluded because ephemerality.",
             "constant": false,
             "vectorized": false,
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6967,
+            "order": 6948,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -1996,9 +2002,9 @@
             "delayUntilRecursion": false,
             "probability": 100,
             "useProbability": true,
-            "depth": 1,
+            "depth": 4,
             "group": "",
-            "groupOverride": true,
+            "groupOverride": false,
             "groupWeight": 100,
             "scanDepth": null,
             "caseSensitive": null,
@@ -2009,7 +2015,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 209
+            "displayIndex": 192
         },
         "54": {
             "uid": 54,
@@ -2046,7 +2052,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 140
+            "displayIndex": 141
         },
         "55": {
             "uid": 55,
@@ -2094,7 +2100,7 @@
             "sticky": 1,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 225
+            "displayIndex": 227
         },
         "56": {
             "uid": 56,
@@ -2131,7 +2137,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 143
+            "displayIndex": 144
         },
         "57": {
             "uid": 57,
@@ -2144,7 +2150,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6962,
+            "order": 6963,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -2165,7 +2171,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 204
+            "displayIndex": 207
         },
         "58": {
             "uid": 58,
@@ -2178,7 +2184,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6954,
+            "order": 6955,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -2199,7 +2205,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 196
+            "displayIndex": 199
         },
         "59": {
             "uid": 59,
@@ -2235,7 +2241,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 144
+            "displayIndex": 145
         },
         "60": {
             "uid": 60,
@@ -2272,7 +2278,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 147
+            "displayIndex": 148
         },
         "61": {
             "uid": 61,
@@ -2308,7 +2314,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 145
+            "displayIndex": 146
         },
         "62": {
             "uid": 62,
@@ -2345,7 +2351,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 146
+            "displayIndex": 147
         },
         "63": {
             "uid": 63,
@@ -2381,7 +2387,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 156
+            "displayIndex": 157
         },
         "64": {
             "uid": 64,
@@ -2417,7 +2423,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 157
+            "displayIndex": 158
         },
         "65": {
             "uid": 65,
@@ -2453,7 +2459,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 159
+            "displayIndex": 160
         },
         "66": {
             "uid": 66,
@@ -2489,7 +2495,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 163
+            "displayIndex": 164
         },
         "67": {
             "uid": 67,
@@ -2525,7 +2531,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 148
+            "displayIndex": 149
         },
         "68": {
             "uid": 68,
@@ -2561,7 +2567,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 165
+            "displayIndex": 166
         },
         "69": {
             "uid": 69,
@@ -2598,7 +2604,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 158
+            "displayIndex": 159
         },
         "70": {
             "uid": 70,
@@ -2638,7 +2644,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 162
+            "displayIndex": 163
         },
         "71": {
             "uid": 71,
@@ -2676,7 +2682,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 164
+            "displayIndex": 165
         },
         "72": {
             "uid": 72,
@@ -2712,7 +2718,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 166
+            "displayIndex": 167
         },
         "73": {
             "uid": 73,
@@ -2721,7 +2727,7 @@
             ],
             "keysecondary": [],
             "comment": "\tmartial styles",
-            "content": "martial style= encapsulates martial weapon motions and attacks:\n\tphysical∪magic damage∝ payload geometry.\n\tfulcrum= CoM relative to grip.\n\tleverage= sweeping fulcrum for momentum.\n\tmin range∝haft= non lethal weapon length.",
+            "content": "martial style= encapsulates martial motions and attacks:\n\tphysical∪magic damage∝ payload geometry.\n\tfulcrum= CoM relative to grip.\n\tleverage= sweeping fulcrum for momentum.\n\tmin range∝haft= non lethal weapon length.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -2748,7 +2754,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 169
+            "displayIndex": 170
         },
         "74": {
             "uid": 74,
@@ -2784,7 +2790,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 161
+            "displayIndex": 162
         },
         "75": {
             "uid": 75,
@@ -2821,7 +2827,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 160
+            "displayIndex": 161
         },
         "76": {
             "uid": 76,
@@ -2839,7 +2845,7 @@
             "selective": true,
             "selectiveLogic": 2,
             "addMemo": true,
-            "order": 6960,
+            "order": 6961,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -2860,7 +2866,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 202
+            "displayIndex": 205
         },
         "77": {
             "uid": 77,
@@ -2894,7 +2900,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 135
+            "displayIndex": 136
         },
         "78": {
             "uid": 78,
@@ -2928,7 +2934,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 136
+            "displayIndex": 137
         },
         "79": {
             "uid": 79,
@@ -2962,7 +2968,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 134
+            "displayIndex": 135
         },
         "80": {
             "uid": 80,
@@ -2980,7 +2986,7 @@
             "selective": true,
             "selectiveLogic": 2,
             "addMemo": true,
-            "order": 6886,
+            "order": 6885,
             "position": 0,
             "disable": true,
             "excludeRecursion": true,
@@ -3021,7 +3027,7 @@
             "selective": true,
             "selectiveLogic": 2,
             "addMemo": true,
-            "order": 6887,
+            "order": 6886,
             "position": 0,
             "disable": true,
             "excludeRecursion": true,
@@ -3059,7 +3065,7 @@
             "selective": true,
             "selectiveLogic": 2,
             "addMemo": true,
-            "order": 6888,
+            "order": 6887,
             "position": 0,
             "disable": true,
             "excludeRecursion": true,
@@ -3097,7 +3103,7 @@
             "selective": true,
             "selectiveLogic": 2,
             "addMemo": true,
-            "order": 6889,
+            "order": 6888,
             "position": 0,
             "disable": true,
             "excludeRecursion": true,
@@ -3156,7 +3162,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 133
+            "displayIndex": 134
         },
         "85": {
             "uid": 85,
@@ -3192,7 +3198,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 167
+            "displayIndex": 168
         },
         "86": {
             "uid": 86,
@@ -3228,7 +3234,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 168
+            "displayIndex": 169
         },
         "87": {
             "uid": 87,
@@ -3245,7 +3251,7 @@
             "selective": true,
             "selectiveLogic": 2,
             "addMemo": true,
-            "order": 6885,
+            "order": 6884,
             "position": 0,
             "disable": true,
             "excludeRecursion": true,
@@ -3271,7 +3277,7 @@
         "88": {
             "uid": 88,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b(([Tt]rinkets?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Tt]rinkets?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Jj]ewell?e?ry\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
@@ -3303,7 +3309,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 149
+            "displayIndex": 150
         },
         "89": {
             "uid": 89,
@@ -3313,7 +3319,7 @@
             ],
             "keysecondary": [],
             "comment": "\t\tamulets",
-            "content": "\tamulets= passive∪ reactive∪ utility necklace.\n\t",
+            "content": "\tamulets= passive∪ reactive∪ utility neck wear.\n\t",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -3340,7 +3346,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 150
+            "displayIndex": 151
         },
         "90": {
             "uid": 90,
@@ -3377,7 +3383,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 152
+            "displayIndex": 153
         },
         "91": {
             "uid": 91,
@@ -3414,15 +3420,15 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 154
+            "displayIndex": 155
         },
         "92": {
             "uid": 92,
             "key": [
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Aa]mulets?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Nn]ecklaces?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[P]enda|ents?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[T]alisma|ens?\\b(?![=≡∩∪⊂∈])/"
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Pp]end(a|e)nts?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Tt]alism(a|e)ns?\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
             "comment": "\t\t└expanded",
@@ -3453,7 +3459,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 151
+            "displayIndex": 152
         },
         "93": {
             "uid": 93,
@@ -3490,7 +3496,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 153
+            "displayIndex": 154
         },
         "94": {
             "uid": 94,
@@ -3527,7 +3533,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 155
+            "displayIndex": 156
         },
         "95": {
             "uid": 95,
@@ -3563,7 +3569,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 172
+            "displayIndex": 173
         },
         "96": {
             "uid": 96,
@@ -3599,7 +3605,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 170
+            "displayIndex": 171
         },
         "97": {
             "uid": 97,
@@ -3635,7 +3641,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 174
+            "displayIndex": 175
         },
         "98": {
             "uid": 98,
@@ -3671,7 +3677,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 176
+            "displayIndex": 177
         },
         "99": {
             "uid": 99,
@@ -3712,7 +3718,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 173
+            "displayIndex": 174
         },
         "100": {
             "uid": 100,
@@ -3756,7 +3762,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 171
+            "displayIndex": 172
         },
         "101": {
             "uid": 101,
@@ -3792,12 +3798,11 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 177
+            "displayIndex": 178
         },
         "102": {
             "uid": 102,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ff]orc(e|(ing))s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Bb]lunt(ing)?s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Bb]atter(ing)?s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Ss]tagger(ing)?s?\\b(?![=≡∩∪⊂∈])/",
@@ -3836,12 +3841,12 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 175
+            "displayIndex": 176
         },
         "103": {
             "uid": 103,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ss]traight[ -]?[Bb]lade\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b([Ss]traight)?[ -]?(([Bb]lade)|([Ss]word))s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b(([Aa]rming)|([Bb]astard)|([Ll]ong)|([Ss]hort))?[ -]?[Ss]words?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd]aggers?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd]irks?\\b(?![=≡∩∪⊂∈])/",
@@ -3881,12 +3886,12 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 178
+            "displayIndex": 179
         },
         "104": {
             "uid": 104,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]urved[ -]?[Bb]lade\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b([Cc]urved)?[ -]?(([Bb]lade)|([Ss]word))s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]utlass(es)?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd]aos?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd]has?\\b(?![=≡∩∪⊂∈])/",
@@ -3935,12 +3940,12 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 179
+            "displayIndex": 180
         },
         "105": {
             "uid": 105,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Gg]reat[ -]?(([Ss]word)|([Bb]lade))s?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b([Gg]reat)?[ -]?(([Bb]lade)|([Ss]word))s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Bb]idenha|änders?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]laymores?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Dd]acian[ -][Ff]alx(es)?\\b(?![=≡∩∪⊂∈])/",
@@ -3980,7 +3985,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 180
+            "displayIndex": 181
         },
         "106": {
             "uid": 106,
@@ -4020,13 +4025,14 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 185
+            "displayIndex": 187
         },
         "107": {
             "uid": 107,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Pp]icks?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b([Ww]ar)?[ -]?[Hh]ammers?\\b(?![=≡∩∪⊂∈])/"
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Pp]ick[ -]?[Aa]xes?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ww]ar[ -]?[Pp]icks?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ww]ar[ -]?[Hh]ammers?\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
             "comment": "\t\tpick",
@@ -4057,7 +4063,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 187
+            "displayIndex": 189
         },
         "108": {
             "uid": 108,
@@ -4066,7 +4072,7 @@
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]higiriki\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Cc]rowbills?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Ff]lails?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Hh]ammers?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ww]ar[ -]?[Hh]ammers?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Ss]haspars?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Tt]abars?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Nn]unchaku\\b(?![=≡∩∪⊂∈])/"
@@ -4100,7 +4106,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 186
+            "displayIndex": 188
         },
         "109": {
             "uid": 109,
@@ -4152,13 +4158,13 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 183
+            "displayIndex": 184
         },
         "110": {
             "uid": 110,
             "key": [
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Mm]auls?\\b(?![=≡∩∪⊂∈])/",
-                "/(?<![\\\\=≡∩∪⊂∈])\\b([Gg]reat)?[ -]?[Hh]ammers?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Gg]reat[ -]?[Hh]ammers?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Kk]anabo|ō\\b(?![=≡∩∪⊂∈])/"
             ],
             "keysecondary": [],
@@ -4190,12 +4196,12 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 188
+            "displayIndex": 190
         },
         "111": {
             "uid": 111,
             "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Ss]words?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b([Pp]oint(ed)?)?[ -]?(([Bb]lade)|([Ss]word))s?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Bb]aselards?\\b(?![=≡∩∪⊂∈])/\n/(?<![\\\\=≡∩∪⊂∈])\\b[Ee]stocs?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Ee]pees?\\b(?![=≡∩∪⊂∈])/",
                 "/(?<![\\\\=≡∩∪⊂∈])\\b[Hh]angers?\\b(?![=≡∩∪⊂∈])/",
@@ -4220,7 +4226,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6938,
+            "order": 6939,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -4241,7 +4247,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 182
+            "displayIndex": 183
         },
         "112": {
             "uid": 112,
@@ -4286,7 +4292,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 189
+            "displayIndex": 191
         },
         "113": {
             "uid": 113,
@@ -4307,7 +4313,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6939,
+            "order": 6938,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -4328,7 +4334,7 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 181
+            "displayIndex": 182
         },
         "114": {
             "uid": 114,
@@ -4356,42 +4362,6 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 6941,
-            "position": 4,
-            "disable": false,
-            "excludeRecursion": false,
-            "preventRecursion": false,
-            "delayUntilRecursion": false,
-            "probability": 100,
-            "useProbability": true,
-            "depth": 4,
-            "group": "",
-            "groupOverride": false,
-            "groupWeight": 100,
-            "scanDepth": null,
-            "caseSensitive": null,
-            "matchWholeWords": null,
-            "useGroupScoring": null,
-            "automationId": "",
-            "role": 0,
-            "sticky": 0,
-            "cooldown": 0,
-            "delay": 0,
-            "displayIndex": 184
-        },
-        "115": {
-            "uid": 115,
-            "key": [
-                "/(?<![\\\\=≡∩∪⊂∈])\\b[Pp]olehammers?\\b(?![=≡∩∪⊂∈])/"
-            ],
-            "keysecondary": [],
-            "comment": "\t\tpolehammer",
-            "content": "\tpierce∩blunt∈ polehammer⊂ martial weapon.",
-            "constant": false,
-            "vectorized": false,
-            "selective": true,
-            "selectiveLogic": 0,
-            "addMemo": true,
             "order": 6942,
             "position": 4,
             "disable": false,
@@ -4413,7 +4383,84 @@
             "sticky": 0,
             "cooldown": 0,
             "delay": 0,
-            "displayIndex": 184
+            "displayIndex": 186
+        },
+        "115": {
+            "uid": 115,
+            "key": [
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Pp]olehammers?\\b(?![=≡∩∪⊂∈])/"
+            ],
+            "keysecondary": [],
+            "comment": "\t\tpolehammer",
+            "content": "\tpierce∩blunt∈ polehammer⊂ martial weapon.",
+            "constant": false,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 6941,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "displayIndex": 185
+        },
+        "116": {
+            "uid": 116,
+            "key": [
+                "/\\s/"
+            ],
+            "keysecondary": [
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Aa]mulets?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Nn]ecklaces?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Pp]end(a|e)nts?\\b(?![=≡∩∪⊂∈])/",
+                "/(?<![\\\\=≡∩∪⊂∈])\\b[Tt]alism(a|e)ns?\\b(?![=≡∩∪⊂∈])/"
+            ],
+            "comment": "\t*fallback trinkets amulet",
+            "content": "",
+            "constant": false,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 2,
+            "addMemo": true,
+            "order": 6889,
+            "position": 0,
+            "disable": true,
+            "excludeRecursion": true,
+            "preventRecursion": true,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "trinketAmulets",
+            "groupOverride": true,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": null,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "displayIndex": 133
         }
     }
 }
