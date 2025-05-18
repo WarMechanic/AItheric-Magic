@@ -2155,7 +2155,7 @@
             ],
             "keysecondary": [],
             "comment": "\tintel",
-            "content": "intel⊃ awareness⊃ vision cones∩ light, listen, gnosis (from mage∪item):\n\tuncertainty≡ fog= intel'.\n\tworld= universal set intel∪fog.\n\tscope= high viewpoint may extend sight, lacks detail.\n\tterrain= open fields have better vision forests.\n\tobfuscation= muffling sound, concealing appearance, hushing spells, overwhelming \\gnosis.\n\tinformation warfare= controlling intel, knowing more than enemies.\n\t\tambush= staged \\battle anticipating opponent, \\attackers usually exploit terrain.",
+            "content": "intel⊃ awareness⊃ vision cones∩ light, listen, gnosis (from mage∪item):\n\tuncertainty≡ fog= intel'.\n\tworld= universal set intel∪fog.\n\tscope= high viewpoint may extend sight, lacks detail.\n\tterrain= open fields have better vision forests.\n\tobfuscation= muffling sound, concealing appearance, hushing spells, overwhelming \\gnosis.\n\tinformation warfare= controlling intel, knowing more than enemies.\n\t\tambush= staged \\battle anticipating opponent, \\attackers usually exploit terrain.\n\t\tflank= exploit fog to circumvent \\range.",
             "constant": false,
             "vectorized": false,
             "selective": true,
